@@ -6,3 +6,6 @@ If analysis methods are not chosen before data collection, techniques should be 
 After the data is ready to use, and methods and software are selected, we can begin writing the analysis script. This could contain descriptives, assumption checks, and the analysis itself.
 
 Lastly, results should be interpreted and written down.
+# Random changes
+I am making random changes, without being requested to do so, because I want to test what happens!
+
